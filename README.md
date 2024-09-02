@@ -1,4 +1,4 @@
-# promptpay-qr-generator
+# PromptPay-QR-Code
 
 The Bank of Thailand introduced a PromptPay QRCode Standard that works with most mobile banking apps in Thailand.
 
